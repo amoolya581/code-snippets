@@ -3,7 +3,7 @@
 public class Main {
     // Function to print "Hello, World!"
     public static void helloWorld() {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, Amoolya World!");
     }
 
     // Function to subtract two numbers
